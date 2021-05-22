@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://emoji.gg/assets/emoji/3454_MP5.gif" width="30px"> I AM AZIM!! 
 
 <!--
 **Azim-js/Azim-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
