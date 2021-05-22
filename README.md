@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 
 ---
 ![AZIM_STATS](https://github-readme-stats.vercel.app/api?username=Azim-js&count_private=true&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-js&layout=compact&theme=tokyonight)
+
+<div align="center">
+<p><strong>VISITS<Strong></p>
+<img src="https://profile-counter.glitch.me/Azim-js/count.svg" alt="hit counter" align="center">
+</div>
