@@ -1,7 +1,9 @@
 ### Hi there!!!  <img src="https://i.pinimg.com/originals/7f/d4/1a/7fd41abad4871706f9ab7940cfc0234a.gif" width="30px">
 ### <img src="https://emoji.gg/assets/emoji/3454_MP5.gif" width="40px"> I AM AZIM!! 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiO64wCoqdvReHcCD0W4aLg?label=Amazing%20people&style=social)
+<b style="font-size:30px;">CATCH ME ON -> </b><a href="https://th.bing.com/th/id/Rc2560c9ab8d538a2b5a4b6c7abcb3e57?rik=DVojAbw1WlCW%2fw&riu=http%3a%2f%2fcdn.playbuzz.com%2fcdn%2fa238efce-f6b5-4ecc-a643-a158acb79cf0%2fa933b5d4-5971-437d-86ca-c069ca8145e2.gif&ehk=QumUE3LhrQ5jep%2frd3Y5Sd2VUQo9ewPEbsTagVv9gAs%3d&risl=1&pid=ImgRaw"><img src="https://media1.tenor.com/images/72978730295074a13b863f71ac17d27d/tenor.gif?itemid=12009525" width="50px"> </a>
+</br>
+<!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiO64wCoqdvReHcCD0W4aLg?label=Amazing%20people&style=social) -->
 <!--
 **Azim-js/Azim-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
