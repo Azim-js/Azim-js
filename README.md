@@ -1,4 +1,4 @@
-### Hi there!!!  <img src="https://i.pinimg.com/originals/7f/d4/1a/7fd41abad4871706f9ab7940cfc0234a.gif" width="45px">
+### Hi there!!!  <img src="https://i.pinimg.com/originals/7f/d4/1a/7fd41abad4871706f9ab7940cfc0234a.gif" width="30px">
 ### <img src="https://emoji.gg/assets/emoji/3454_MP5.gif" width="40px"> I AM AZIM!! 
 
 <!--
