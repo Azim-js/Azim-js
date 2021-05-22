@@ -1,4 +1,4 @@
-### Hi there!!!  <img src="https://thumbs.gfycat.com/LivelyPowerfulJunebug-size_restricted.gif" width="30px">
+### Hi there!!!  <img src="https://thumbs.gfycat.com/LivelyPowerfulJunebug-size_restricted.gif" width="45px">
 ### <img src="https://emoji.gg/assets/emoji/3454_MP5.gif" width="40px"> I AM AZIM!! 
 
 <!--
