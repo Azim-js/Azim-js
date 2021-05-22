@@ -1,7 +1,7 @@
 ### Hi there!!!  <img src="https://i.pinimg.com/originals/7f/d4/1a/7fd41abad4871706f9ab7940cfc0234a.gif" width="30px">
 ### <img src="https://emoji.gg/assets/emoji/3454_MP5.gif" width="40px"> I AM AZIM!! 
 
-<b style="font-size:30px;">CATCH ME ON -> </b><a href="https://www.youtube.com/channel/UCiO64wCoqdvReHcCD0W4aLg" target="_blank"><img src="https://media1.tenor.com/images/9b2727740f20d66eeeb300568926619e/tenor.gif?itemid=9696052" width="80px" height="50px"> </a>
+<b style="font-size:30px;">CATCH ME ON -> </b><a href="https://www.youtube.com/channel/UCiO64wCoqdvReHcCD0W4aLg" target="_blank"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7cf15219547245.562fd311ee350.gif" width="80px" height="50px"> </a>
 </br>
 <!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCiO64wCoqdvReHcCD0W4aLg?label=Amazing%20people&style=social) -->
 <!--
