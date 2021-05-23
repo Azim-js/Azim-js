@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on NODE.js
 - 🌱 I’m currently learning NODE.js
-- 👯 I’m looking to collaborate on "ANYTHING"(society contubutions)
+- 👯 I’m looking to collaborate on "ANYTHING"(society contributions)
 - 🤔 I’m looking for help with AR,VR
 - 💬 Ask me about "ANYTHING"
 - ⚡ Fun fact: TIME DOSEN'T STOP !
