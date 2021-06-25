@@ -6,7 +6,7 @@
 ---
 <h3> SOCIALS </h3>
 
-<a href="https://discord.gg/KejdGWYY"><img src="https://discord.bots.gg/img/bot_icon_placeholder.png" alt="discord" width="80px" height="80px"/></a>
+<a href="https://discord.gg/fKaEbfhb"><img src="https://discord.bots.gg/img/bot_icon_placeholder.png" alt="discord" width="80px" height="80px"/></a>
 <a href="https://www.linkedin.com/in/mohammed-azim-358314201/"><img src="https://gobrightwing.com/wp-content/uploads/2016/05/linkedin-logo-300x300.png" alt="insta" width="80px" height="80px"/></a>
 
 ---
