@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,50:185FA5,100:534AB7&height=120&section=header&text=Mohammed%20Azim&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+![Header](./header.svg)
 
 </div>
 
 <div align="center">
-
-### DevSecOps Engineer · Cloud Infrastructure · AI/MLOps
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+secure%2C+observable%2C+scalable+systems;AWS+%C2%B7+Azure+%C2%B7+GCP+%C2%B7+Kubernetes+%C2%B7+Terraform;Exploring+RAG+pipelines+%26+agentic+DevSecOps)](https://github.com/Azim-js)
 
@@ -104,17 +102,25 @@ RAG pipelines, agentic workflows, AI-assisted DevSecOps tooling
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Azim-js&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=185fa5&text_color=c9d1d9&ring_color=1d9e75" />
+<img src="https://github-readme-stats.vercel.app/api?username=Azim-js&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=185fa5&text_color=c9d1d9&ring_color=1d9e75&cache_seconds=86400" height="170"/>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-js&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-js&layout=compact&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9&langs_count=6&cache_seconds=86400" height="170"/>
 
-<br/><br/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Azim-js&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75&sideLabels=c9d1d9&dates=8b949e" width="600"/>
+<br/>
 
-<br/><br/>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azim-js&bg_color=0d1117&color=1d9e75&line=185fa5&point=534ab7&area=true&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Azim-js&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75&sideLabels=8b949e&dates=8b949e&stroke=0d1117" width="480"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azim-js&bg_color=0d1117&color=1d9e75&line=185fa5&point=534ab7&area=true&hide_border=true&radius=8" width="100%"/>
 
 </div>
 
@@ -128,7 +134,7 @@ RAG pipelines, agentic workflows, AI-assisted DevSecOps tooling
 
 **Learning**
 - Advanced Kubernetes cluster management
-- Zero-trust cloud-native security
+- Zero-trust cloud-native security patterns
 - Agentic workflow design & AI/MLOps
 - Distributed systems architecture
 
@@ -156,7 +162,5 @@ RAG pipelines, agentic workflows, AI-assisted DevSecOps tooling
 <br/>
 
 *"Time does not stop — so keep building, learning, and improving."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,50:185FA5,100:0F6E56&height=80&section=footer" width="100%"/>
 
 </div>
