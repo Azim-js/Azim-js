@@ -102,9 +102,7 @@ RAG pipelines, agentic workflows, AI-assisted DevSecOps tooling
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Azim-js&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=185fa5&text_color=c9d1d9&ring_color=1d9e75&cache_seconds=86400" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-js&layout=compact&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9&langs_count=6&cache_seconds=86400" height="170"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=Azim-js&cc=0d1117&tc=1d9e75&ic=185fa5&bc=0d1117" />
 
 </div>
 
