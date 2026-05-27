@@ -1,104 +1,162 @@
 <div align="center">
 
-# Mohammed Azim
-
-**DevSecOps · Cloud Infrastructure · AI/MLOps**
-
-[![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-0F6E56?style=flat-square)](https://github.com/Azim-js)
-[![GitHub](https://img.shields.io/badge/GitHub-Azim--js-181717?style=flat-square&logo=github)](https://github.com/Azim-js)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCiO64wCoqdvReHcCD0W4aLg)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-185FA5?style=flat-square)](https://github.com/Azim-js)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,50:185FA5,100:534AB7&height=120&section=header&text=Mohammed%20Azim&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
 
----
+<div align="center">
 
-I build, secure, and automate cloud-native platforms at the intersection of **infrastructure, security, and reliability** — with a growing focus on AI-powered engineering workflows.
+### DevSecOps Engineer · Cloud Infrastructure · AI/MLOps
 
-5+ years shipping production systems across AWS, Azure, and GCP. Led CI/CD automation initiatives. Built container security pipelines from the ground up. I care about systems that are not just functional, but observable, secure, and maintainable at scale.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Building+secure%2C+observable%2C+scalable+systems;AWS+%C2%B7+Azure+%C2%B7+GCP+%C2%B7+Kubernetes+%C2%B7+Terraform;Exploring+RAG+pipelines+%26+agentic+DevSecOps)](https://github.com/Azim-js)
 
-Currently deep in **AI/MLOps**, **RAG systems**, and **agentic DevSecOps workflows**.
+</div>
 
----
+<br/>
 
-## Areas of Focus
+```yaml
+whoami:
+  name        : Mohammed Azim
+  role        : DevSecOps Engineer
+  experience  : 5+ years
+  clouds      : [AWS, Azure, GCP]
+  focus       : [CI/CD Security, Container Platforms, AI/MLOps]
+  currently   : RAG systems · Agentic workflows · Zero-trust architecture
+  open_to     : Collaboration on DevSecOps · Cloud Automation · AI+DevOps
+```
 
-| | Domain | What I do |
-|---|---|---|
-| 🔐 | **DevSecOps** | Secure CI/CD, quality gates, vulnerability scanning, compliance automation |
-| ☁️ | **Cloud Infrastructure** | Multi-cloud (AWS · Azure · GCP) with Terraform and Ansible |
-| 🐳 | **Containers & Kubernetes** | Production deployments, Helm, cluster operations, image security |
-| 🛡️ | **Security Engineering** | Container hardening, SonarQube, Trivy, Harbor registry management |
-| 📊 | **Observability** | Logging, monitoring, alerting, platform reliability |
-| 🤖 | **AI / MLOps** | RAG pipelines, agentic workflows, AI-assisted DevSecOps tooling |
+<br/>
 
----
+## ⚡ Areas of Focus
 
-## Tech Stack
+<table>
+<tr>
+<td width="50%">
+
+**🔐 DevSecOps**
+Secure CI/CD pipelines, quality gates, vulnerability scanning, compliance automation
+
+**☁️ Cloud Infrastructure**
+Multi-cloud IaC with Terraform & Ansible across AWS, Azure, GCP
+
+**🐳 Containers & Kubernetes**
+Production-grade deployments, Helm charts, cluster ops, image security
+
+</td>
+<td width="50%">
+
+**🛡️ Security Engineering**
+Container hardening, SonarQube, Trivy, Harbor registry management
+
+**📊 Observability**
+Logging, monitoring, alerting, and platform reliability at scale
+
+**🤖 AI / MLOps**
+RAG pipelines, agentic workflows, AI-assisted DevSecOps tooling
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠 Tech Stack
+
+<div align="center">
 
 **Cloud & IaC**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 **Containers & Orchestration**
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat-square&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logoColor=white)
 
 **CI/CD & Security**
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasec&logoColor=white)
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
----
-
-## GitHub Activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Azim-js&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1d9e75&text_color=8b949e&ring_color=1d9e75" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-js&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 </div>
 
+<br/>
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azim-js&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1d9e75&fire=1d9e75&currStreakLabel=8b949e" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Azim-js&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=185fa5&text_color=c9d1d9&ring_color=1d9e75" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-js&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Azim-js&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75&sideLabels=c9d1d9&dates=8b949e" width="600"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azim-js&bg_color=0d1117&color=1d9e75&line=185fa5&point=534ab7&area=true&hide_border=true" width="100%"/>
+
 </div>
 
----
+<br/>
 
-## Currently
+## 🔭 Currently
+
+<table>
+<tr>
+<td width="50%">
 
 **Learning**
-- Advanced Kubernetes operations and production-grade cluster management
-- Cloud-native security and zero-trust architecture patterns
-- AI/MLOps systems and agentic workflow design
-- Distributed systems and scalable backend architecture
+- Advanced Kubernetes cluster management
+- Zero-trust cloud-native security
+- Agentic workflow design & AI/MLOps
+- Distributed systems architecture
+
+</td>
+<td width="50%">
 
 **Open to collaborate on**
-- DevSecOps platforms and secure delivery pipelines
-- Cloud automation and Infrastructure as Code projects
-- Kubernetes deployments and platform engineering
-- AI + DevOps tooling and open-source security automation
+- DevSecOps platforms & secure delivery
+- Cloud automation & IaC projects
+- Kubernetes platform engineering
+- AI + DevOps open-source tooling
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-Azim--js-181717?style=flat-square&logo=github)](https://github.com/Azim-js)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCiO64wCoqdvReHcCD0W4aLg)
+
+<br/>
+
 *"Time does not stop — so keep building, learning, and improving."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:534AB7,50:185FA5,100:0F6E56&height=80&section=footer" width="100%"/>
 
 </div>
