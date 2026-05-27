@@ -2,44 +2,41 @@
 
 # Mohammed Azim
 
-**DevSecOps Engineer · Cloud & Platform Engineering · AI/MLOps**
+**DevSecOps · Cloud Infrastructure · AI/MLOps**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Azim-js&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Azim-js)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Azim--js-181717?style=flat&logo=github)](https://github.com/Azim-js)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat&logo=youtube)](https://www.youtube.com/channel/UCiO64wCoqdvReHcCD0W4aLg)
+[![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-0F6E56?style=flat-square)](https://github.com/Azim-js)
+[![GitHub](https://img.shields.io/badge/GitHub-Azim--js-181717?style=flat-square&logo=github)](https://github.com/Azim-js)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCiO64wCoqdvReHcCD0W4aLg)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Collaborate-185FA5?style=flat-square)](https://github.com/Azim-js)
 
 </div>
 
 ---
 
-## About
+I build, secure, and automate cloud-native platforms at the intersection of **infrastructure, security, and reliability** — with a growing focus on AI-powered engineering workflows.
 
-I'm a DevSecOps Engineer with **5+ years of experience** building, securing, and automating cloud-native platforms. My work sits at the intersection of infrastructure, security, automation, and reliability — with a growing focus on AI-powered engineering workflows.
+5+ years shipping production systems across AWS, Azure, and GCP. Led CI/CD automation initiatives. Built container security pipelines from the ground up. I care about systems that are not just functional, but observable, secure, and maintainable at scale.
 
-I've shipped production systems across AWS, Azure, and GCP, led CI/CD automation initiatives, and built container security pipelines from the ground up. I care deeply about writing systems that are not just functional, but observable, secure, and maintainable at scale.
-
-Currently exploring **AI/MLOps**, **RAG systems**, and **agentic DevSecOps workflows**.
+Currently deep in **AI/MLOps**, **RAG systems**, and **agentic DevSecOps workflows**.
 
 ---
 
-## What I Work On
+## Areas of Focus
 
-| Area | Focus |
-|---|---|
-| 🔐 **DevSecOps** | Secure CI/CD, quality gates, vulnerability scanning, compliance automation |
-| ☁️ **Cloud Infrastructure** | Multi-cloud (AWS · Azure · GCP), IaC with Terraform and Ansible |
-| 🐳 **Containers & Kubernetes** | Production deployments, Helm, cluster operations, image security |
-| 🛡️ **Security Engineering** | Container hardening, code quality (SonarQube), registry management (Harbor) |
-| 📊 **Observability** | Logging, monitoring, alerting, and platform reliability |
-| 🤖 **AI / MLOps** | RAG pipelines, agentic workflows, AI-assisted DevSecOps tooling |
+| | Domain | What I do |
+|---|---|---|
+| 🔐 | **DevSecOps** | Secure CI/CD, quality gates, vulnerability scanning, compliance automation |
+| ☁️ | **Cloud Infrastructure** | Multi-cloud (AWS · Azure · GCP) with Terraform and Ansible |
+| 🐳 | **Containers & Kubernetes** | Production deployments, Helm, cluster operations, image security |
+| 🛡️ | **Security Engineering** | Container hardening, SonarQube, Trivy, Harbor registry management |
+| 📊 | **Observability** | Logging, monitoring, alerting, platform reliability |
+| 🤖 | **AI / MLOps** | RAG pipelines, agentic workflows, AI-assisted DevSecOps tooling |
 
 ---
 
 ## Tech Stack
 
-**Cloud & Infrastructure**
+**Cloud & IaC**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -55,14 +52,14 @@ Currently exploring **AI/MLOps**, **RAG systems**, and **agentic DevSecOps workf
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat-square&logoColor=white)
 
-**CI/CD & Automation**
+**CI/CD & Security**
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
-**Languages & Scripting**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -71,27 +68,28 @@ Currently exploring **AI/MLOps**, **RAG systems**, and **agentic DevSecOps workf
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Azim-js&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-js&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Azim-js&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1d9e75&text_color=8b949e&ring_color=1d9e75" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azim-js&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Azim-js&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1d9e75&fire=1d9e75&currStreakLabel=8b949e" />
 </div>
 
 ---
 
-## Currently Learning
+## Currently
 
+**Learning**
 - Advanced Kubernetes operations and production-grade cluster management
 - Cloud-native security and zero-trust architecture patterns
 - AI/MLOps systems and agentic workflow design
 - Distributed systems and scalable backend architecture
 
----
-
-## Open to Collaborate On
-
+**Open to collaborate on**
 - DevSecOps platforms and secure delivery pipelines
 - Cloud automation and Infrastructure as Code projects
 - Kubernetes deployments and platform engineering
