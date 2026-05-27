@@ -108,11 +108,11 @@ RAG pipelines, agentic workflows, AI-assisted DevSecOps tooling
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Azim-js&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=185FA5&currStreakLabel=1D9E75&sideLabels=8b949e&dates=8b949e&stroke=0d1117" width="480"/>
 
-</div>
+</div> -->
 
 <br/>
 
